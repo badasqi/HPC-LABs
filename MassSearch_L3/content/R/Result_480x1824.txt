@@ -1,0 +1,3 @@
+Substring number, index in input buffer - (n,k) := (73,183)	Substring := iOz
+Substring number, index in input buffer - (n,k) := (259,713)	Substring := wNg
+Substring number, index in input buffer - (n,k) := (316,748)	Substring := Fxo

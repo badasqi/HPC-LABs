@@ -1,0 +1,8 @@
+Substring number, index in input buffer - (n,k) := (47,509)	Substring := PMK
+Substring number, index in input buffer - (n,k) := (72,92)	Substring := [SO
+Substring number, index in input buffer - (n,k) := (89,727)	Substring := FPp
+Substring number, index in input buffer - (n,k) := (90,82)	Substring := HKK
+Substring number, index in input buffer - (n,k) := (90,1402)	Substring := HKK
+Substring number, index in input buffer - (n,k) := (147,257)	Substring := Oqy
+Substring number, index in input buffer - (n,k) := (309,1123)	Substring := dhR
+Substring number, index in input buffer - (n,k) := (407,825)	Substring := q^x

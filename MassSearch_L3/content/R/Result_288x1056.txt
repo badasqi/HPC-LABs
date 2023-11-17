@@ -1,0 +1,2 @@
+Substring number, index in input buffer - (n,k) := (48,804)	Substring := FJI
+Substring number, index in input buffer - (n,k) := (157,991)	Substring := i{u
