@@ -1,9 +1,9 @@
-# HPC Лабораторные Гусев И.А
+f# HPC Лабораторные Гусев И.А
 
-MatMul - ЛР0.
+MatMul_LR0 - ЛР0.
 
-VecSum - ЛР1.
+VecSum_LR1 - ЛР1.
 
-pi_calc - ЛР2.
+Pi_Calc_LR2 - ЛР2.
 
-MasSearch - ЛР3.
+MassSearch_LR3 - ЛР3.
