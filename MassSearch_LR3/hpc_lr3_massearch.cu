@@ -73,10 +73,10 @@ int main()
         printf("GridDim := (%d,%d)\n", dimGrid.x, dimGrid.y);
         printf("BlockDim := (%d,%d)\n", dimBlock.x, dimBlock.y);
 
-        char* alph = new char[64];
+        char* alph = new char[256];
         // Строка из символов для генерации
-        for (int i = 0; i < 64; i++) {
-            alph[i] = static_cast<char>(65 + i);
+        for (int i = 0; i < 256; i++) {
+            alph[i] = static_cast<char>(i);
         }
 
         // Вывод размерности рабочей матрицы
@@ -94,7 +94,7 @@ int main()
         // генерация подстрок для поиска
         for (int i = 0; i < N_number; i++) {
             for (int j = 0; j < N_chars; j++) {
-                N[i * N_chars + j] = alph[rand() % 64];
+                N[i * N_chars + j] = alph[rand() % 256];
                 file_N << N[i * N_chars + j];
             }
             file_N << "\n";
@@ -105,7 +105,7 @@ int main()
         ofstream file_H("content/H/H_" + to_string(H_size) + ".txt");
         // генерация входного буфера
         for (int i = 0; i < H_size; i++) {
-            H[i] = alph[rand() % 64];
+            H[i] = alph[rand() % 256];
             file_H << H[i];
         }
 
