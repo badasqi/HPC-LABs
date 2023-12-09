@@ -1,4 +1,4 @@
-![image](https://github.com/badasqi/HPC-LABs/assets/78803025/1d9bc91d-ae32-44a0-8b73-a27de7192bd2)![image](https://github.com/badasqi/HPC-LABs/assets/78803025/80e7ee5e-2c12-43d8-8e8d-0f2538800178)# LR3 - Substrings search
+# LR3 - Substrings search
 В ходе работы был реализован алгоритм поиска подстрок на CPU и на GPU на языке C++, с использованием рабочей матрицы, где после обработки нулевые индексы указывают на начало найденных подстрок во входном буфере символов.
 
 Было произведён поиск количества подстрок (N_number), на входном буфере символов (H_size) на CPU и на GPU.
@@ -8,7 +8,8 @@
 Результаты поиска подстрок для соответствующих размерностей рабочей матрицы R (N_number x H_size), входной буфер символов и сгенерированные подстроки были сохранены в txt файлы в директорию content.
 
 ## Таблица с результатами
-![image](https://github.com/badasqi/HPC-LABs/assets/78803025/2bc67123-83b3-4f3c-b64a-9e9a77bea546)
+![image](https://github.com/badasqi/HPC-LABs/assets/78803025/265e44ce-9e19-416b-ba0f-a4952e241117)
+
 
 
 
